@@ -11,14 +11,16 @@ O Kafka é uma das plataformas de transmissão de eventos que vem mais sendo uti
 ### E como funciona?
 
 A imagem abaixo representa bem a seguinte ideia:
-    
+
+![Exemplo simples](/assets/simple-kafka-dummies-sample-rsr.svg "Exemplo simples")
+
     -   Fulano é um Producer, ele publica mensagens no Tópico: GameNews 
     -   Ciclano é um Consumer, ele está consumindo (literalmente) as mensagens postadas no Tópico: GameNews
     -   Se Fulano enviar: GOL! Barcelona 1 x 0 Real Madrid 
     -   Ciclano receberá a mesma mensagem do lado de lá! -> GOL! Barcelona 1 x 0 Real Madrid 
 
 
-![Exemplo simples](/assets/simple-kafka-dummies-sample-rsr.svg "Exemplo simples")
+
 
 ### Fontes
 - [Apache Kafka](https://kafka.apache.org/)
