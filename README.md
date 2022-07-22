@@ -21,5 +21,5 @@ A imagem abaixo representa bem a seguinte ideia:
 ![Exemplo simples](/assets/simple-kafka-dummies-sample-rsr.svg "Exemplo simples")
 
 ### Fontes
-
+- [Apache Kafka](https://kafka.apache.org/)
 - [O que é Apache Kafka?](https://www.redhat.com/pt-br/topics/integration/what-is-apache-kafka)
