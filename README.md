@@ -6,7 +6,7 @@ O [Apache Kafka](https://kafka.apache.org/) é uma plataforma distribuída de tr
 
 ## Motivação
 
-O Kafka é uma das plataformas de transmissão de eventos que vem mais sendo utilizada pelas empresas e desenvolvedores nos últimos anos devido a sua grande capacidade de performance. 
+O Kafka é uma das plataformas de transmissão de eventos que vem mais sendo utilizada pelas empresas e desenvolvedores nos últimos anos devido a sua grande capacidade de performance além das várias opções de gerenciamento e configurações.
 
 ### E como funciona?
 
@@ -18,9 +18,6 @@ A imagem abaixo representa bem a seguinte ideia:
     -   Ciclano é um Consumer, ele está consumindo (literalmente) as mensagens postadas no Tópico: GameNews
     -   Se Fulano enviar: GOL! Barcelona 1 x 0 Real Madrid 
     -   Ciclano receberá a mesma mensagem do lado de lá! -> GOL! Barcelona 1 x 0 Real Madrid 
-
-
-
 
 ### Fontes
 - [Apache Kafka](https://kafka.apache.org/)
